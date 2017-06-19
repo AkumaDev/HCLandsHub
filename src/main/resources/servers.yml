@@ -1,0 +1,8 @@
+HCF:
+  Material: INK_SACK
+  Data: 7
+  Display-Name: '&6HCF'
+  Slot: 1
+  Lore:
+  - '&eHCLands HCF Map 1'
+  Command: 'join hcf'

@@ -1,0 +1,20 @@
+#The title of the Server Selector menu.
+selectorTitle: "&eServer Selector"
+#Number of rows in the server selector menu.
+selectorSize: 1
+#At what Y level will the player be teleported to spawn? (voidtp)
+voidteleport: 1
+#Is the plugin using EzQueue?
+ezQueue: false
+#The message that is sent to the player on login.
+motd:
+- '&7&m-----------------------------------'
+- '&eWelcome to another Generic HCF server.'
+- '&7&m-----------------------------------'
+#Server selector information.
+Selector:
+  Item: COMPASS
+  Data: 0
+  Name: "&dServer Selector &6(Right Click)"
+  Lore:
+  - '&3Right click to open'

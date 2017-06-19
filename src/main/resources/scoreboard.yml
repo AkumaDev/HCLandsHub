@@ -1,0 +1,5 @@
+#Scoreboard configuration file (author: Missionary)
+#title for the scoreboard (may not be more than 32 characters, a color is 2 characters)
+title: "&a&lHCLands &7(Hub 1)"
+#Do we want the scores to count up or down? false 15->14->..., true 1->2->3...
+countup: false
